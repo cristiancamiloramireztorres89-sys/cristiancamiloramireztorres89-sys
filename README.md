@@ -43,12 +43,25 @@
 
 <div align="center">
 
-| 🔭 Trabajando en | Tu proyecto actual |
-|:---:|:---:|
-| 🌱 Aprendiendo | Cloud Computing & DevOps |
-| 🤝 Colaborar en | Proyectos Open Source |
-| 💬 Pregúntame sobre | JavaScript · Python · Web Architecture |
-| ⚡ Dato curioso | Programo mejor con una buena taza de ☕ |
+<img src="https://img.shields.io/badge/🔭_Trabajando_en-Tu_Proyecto_Actual-58A6FF?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🌱_Aprendiendo-Cloud_Computing_%26_DevOps-22C55E?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤝_Colaborar_en-Open_Source-A855F7?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💬_JavaScript-Experto-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/💬_Python-Avanzado-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/💬_Web_Architecture-Avanzado-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_Fun_Fact-Programo_mejor_con_☕-FF9500?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
