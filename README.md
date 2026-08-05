@@ -1,142 +1,80 @@
-<h1 align="center">
-  👋 Hola, soy Cristian Camilo
-</h1>
+<h1 align="center">Hola, soy Tu Nombre 👋</h1>
 
-<h3 align="center">
-💻 Full Stack Developer | Laravel • React • Node.js
-</h3>
+<h3 align="center">Desarrollador de Software | Apasionado por la tecnología y el código limpio</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Full+Stack;Laravel+%7C+React+%7C+Node.js;Siempre+aprendiendo+nuevas+tecnologías" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Amante+del+Open+Source;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🚀 Sobre mí
+### 🧑‍💻 Sobre mí
 
-💻 Soy desarrollador Full Stack.
-
-🌱 Actualmente aprendiendo nuevas tecnologías para desarrollo web.
-
-⚡ Me gusta crear aplicaciones modernas, escalables y con buenas prácticas.
-
-🎯 Mi objetivo es convertirme en un desarrollador profesional.
+- 🔭 Actualmente trabajando en: **Nombre del proyecto**
+- 🌱 Aprendiendo: **Tecnología / Framework**
+- 👯 Buscando colaborar en: **Tipo de proyecto**
+- 💬 Pregúntame sobre: **Tus temas favoritos**
+- ⚡ Dato curioso: **Algo interesante sobre ti**
 
 ---
 
-# 🛠 Tecnologías
+### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,express,mongodb,mysql,js,html,css,bootstrap,tailwind,git,github,docker,vscode,postman&perline=6"/>
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-# 📊 Estadísticas
+### 📊 Estadísticas de GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" width="70%" />
 </p>
 
 ---
 
-# 🔥 Racha de contribuciones
+### 🏆 Trofeos
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🏆 Trofeos
+### 📈 Actividad reciente
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📈 Actividad
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Tecnologías que uso
-
-| Frontend | Backend | Base de Datos | Herramientas |
-|----------|----------|--------------|--------------|
-| React | Laravel | MySQL | Git |
-| HTML | Node.js | MongoDB | Docker |
-| CSS | Express | SQLite | VS Code |
-| JavaScript | PHP | Firebase | Postman |
-
----
-
-# 💼 Proyectos
-
-### 📦 Inventory System
-
-Sistema de gestión de inventario desarrollado con Laravel.
-
-### 📚 Ruta SIG
-
-Sistema para evaluación de aprendices SENA.
-
-### ♿ ES-PIAR
-
-Seguimiento a estudiantes con discapacidad.
-
-### 🏢 SIGCO
-
-Sistema de gestión de asistencia.
-
----
-
-# 📫 Contacto
-
-<p align="center">
-
-<a href="mailto:correo@ejemplo.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
 </p>
 
----
-
-<h3 align="center">
-
-✨ Gracias por visitar mi perfil ✨
-
-</h3>
+<p align="center">⭐ Si te gusta lo que hago, considera darle una estrella a mis repos</p>
