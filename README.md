@@ -25,29 +25,25 @@
 
 ## 🧑‍💻 &nbsp;Sobre mí
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="220"/>
+</div>
 
-```ts
-const developer = {
-  nombre:     "Tu Nombre",
-  ubicacion:  "🌎 Tu Ciudad, País",
-  rol:        "Full Stack Developer",
+<br/>
 
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript"],
-    backend:   ["Node.js", "Python", "Express"],
-    database:  ["PostgreSQL", "MongoDB", "Redis"],
-    devops:    ["Docker", "AWS", "GitHub Actions"],
-  },
+<div align="center">
 
-  trabajandoEn: "🔭 Tu proyecto actual",
-  aprendiendo:  "🌱 Cloud & DevOps",
-  busco:        "🤝 Colaborar en Open Source",
-  curiosidad:   "⚡ Programo mejor con ☕",
-};
-```
+| | |
+|:---:|:---|
+| 🌎 | **Ubicación:** Tu Ciudad, País |
+| 💼 | **Rol:** Full Stack Developer |
+| 🔭 | **Trabajando en:** Tu proyecto actual |
+| 🌱 | **Aprendiendo:** Cloud Computing & DevOps |
+| 🤝 | **Busco colaborar en:** Proyectos Open Source |
+| 💬 | **Pregúntame sobre:** JavaScript, Python, Arquitectura web |
+| ⚡ | **Dato curioso:** Programo mejor con una buena taza de ☕ |
 
-<br clear="right"/>
+</div>
 
 ---
 
