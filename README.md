@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=58A6FF&label=Visitas" height="28"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white" height="28"/>
 </div>
 
 <br/>
@@ -36,7 +36,7 @@
 
 ## 🧑‍💻 &nbsp;Sobre mí
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding gif"/>
 
 ```ts
 const developer = {
