@@ -1,33 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tu%20Nombre&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Construyendo+soluciones+que+importan;%F0%9F%94%A5+Apasionado+por+el+c%C3%B3digo+limpio;%F0%9F%8C%B1+Siempre+aprendiendo%2C+siempre+creciendo;%E2%9C%A8+Convirtiendo+ideas+en+realidad+digital" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d5c,100:58a6ff&height=200&section=header&text=Tu%20Nombre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=17&descColor=8b949e" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://tu-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=firefox-browser&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="mailto:tu-correo@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white" height="28"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=🚀+Full+Stack+Developer;🔥+Clean+Code+%26+Best+Practices;🌱+Always+learning%2C+always+growing;✨+Turning+ideas+into+digital+reality" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://tu-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+
 </div>
 
 <br/>
@@ -36,7 +25,7 @@
 
 ## 🧑‍💻 &nbsp;Sobre mí
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
 ```ts
 const developer = {
@@ -51,10 +40,10 @@ const developer = {
     devops:    ["Docker", "AWS", "GitHub Actions"],
   },
 
-  trabajandoEn:  "🔭 Tu proyecto actual",
-  aprendiendo:   "🌱 Cloud & DevOps",
-  busco:         "🤝 Colaborar en Open Source",
-  curiosidad:    "⚡ Pienso mejor con ☕",
+  trabajandoEn: "🔭 Tu proyecto actual",
+  aprendiendo:  "🌱 Cloud & DevOps",
+  busco:        "🤝 Colaborar en Open Source",
+  curiosidad:   "⚡ Programo mejor con ☕",
 };
 ```
 
@@ -62,87 +51,127 @@ const developer = {
 
 ---
 
-## 🛠️ &nbsp;Tecnologías
+## 🛠️ &nbsp;Stack Tecnológico
 
-<details open>
-<summary><b>🌐 Frontend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Bases de Datos</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Cloud</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-</details>
-
-<details open>
-<summary><b>🧰 Herramientas</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+      <br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
+      <br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br/><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/>
+      <br/><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js"/>
+      <br/><sub><b>Vue.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+      <br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+      <br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <br/><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL"/>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      <br/><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+      <br/><sub><b>Redis</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br/><sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+      <br/><sub><b>GH Actions</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
+      <br/><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+      <br/><sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 &nbsp;Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -150,7 +179,7 @@ const developer = {
 ## 📈 &nbsp;Gráfico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&area=true&point=58A6FF&line=58A6FF&area_color=1f2347" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -158,7 +187,7 @@ const developer = {
 ## 🏆 &nbsp;Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=octocat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
 </div>
 
 ---
@@ -166,17 +195,17 @@ const developer = {
 ## 📌 &nbsp;Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPO_1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/octocat/Hello-World">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Hello-World&theme=tokyonight&hide_border=true"/>
   </a>
   &nbsp;
-  <a href="https://github.com/TU_USUARIO/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=REPO_2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/octocat/Spoon-Knife">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Spoon-Knife&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f2d5c,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
