@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Tu Nombre 👋</h1>
+<h1 align="center">Hola, soy Cristian Camilo Ramirez👋</h1>
 
 <h3 align="center">Desarrollador de Software | Apasionado por la tecnología y el código limpio</h3>
 
@@ -19,17 +19,6 @@
 </p>
 
 ---
-
-### 🧑‍💻 Sobre mí
-
-- 🔭 Actualmente trabajando en: **Nombre del proyecto**
-- 🌱 Aprendiendo: **Tecnología / Framework**
-- 👯 Buscando colaborar en: **Tipo de proyecto**
-- 💬 Pregúntame sobre: **Tus temas favoritos**
-- ⚡ Dato curioso: **Algo interesante sobre ti**
-
----
-
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
