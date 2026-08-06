@@ -1,12 +1,19 @@
 
+
 ---
 
-<!-- FOOTER -->
-<div align="center">
-
-### ⭐ Si te gusta lo que hago, dale estrella a mis repos
+<!-- SNAKE GAME -->
+## 🐍 &nbsp;Snake de Contribuciones
 
 <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25,30&height=140&section=footer" width="100%"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/octocat/octocat/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/octocat/octocat/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/octocat/octocat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
+  </picture>
 </div>
+
+<br/>
+
