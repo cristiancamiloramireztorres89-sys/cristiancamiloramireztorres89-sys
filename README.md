@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Gothic Typing SVG from Video 2 -->
+<!-- Subtítulo Animado con Fuente Clásica en Español -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=+Full-Stack+Developer;+Building+Modern+Web+Systems;+Clean+Code+%E2%80%A2+The+world+is+yours." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=+Desarrollador+Full+Stack;+Construyendo+Sistemas+Web+Modernos;+C%C3%B3digo+Limpio+%E2%80%A2+El+mundo+es+tuyo." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Flat Minimal Profile Views Badge -->
+<!-- Contador de Visitas Minimalista en Español -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cristiancamiloramireztorres89-sys&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cristiancamiloramireztorres89-sys&style=flat-square&color=000000&label=VISITAS+AL+PERFIL" alt="Visitas al Perfil" />
 </p>
 
-<!-- Animated Neofetch Kali Linux Terminal Card from Video 1 -->
+<!-- Tarjeta Neofetch Kali Linux Animada en Español -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/refs/heads/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
+  <img src="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/refs/heads/main/assets/profile.svg" alt="Tarjeta de Perfil ASCII Animada" width="100%" />
 </p>
 
 </div>
@@ -23,7 +23,7 @@
 
 <br/>
 
-<!-- RPG Dark Terminal Box + 3D Spinning Asset from Video 2 -->
+<!-- Caja Terminal RPG en Español + Animación 3D Giratoria -->
 <div align="center">
 
 <table width="100%">
@@ -34,12 +34,12 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-◈  Class        →  Full-Stack Developer / ADSO Apprentice
-◈  Origin       →  Colombia 🇨🇴
-◈  Main Stack   →  Laravel, React, Node.js & MySQL
-◈  Focus        →  Modern Web Applications & Scalable APIs
-◈  Philosophy   →  Clean Code & Continuous Learning
-◈  Status       →  Open to Projects & Collaborations ⚡
+◈  Rol          →  Desarrollador Full Stack / Aprendiz ADSO
+◈  Origen       →  Colombia 🇨🇴
+◈  Stack Princ. →  Laravel, React, Node.js & MySQL
+◈  Enfoque      →  Aplicaciones Web Modernas y APIs Escalables
+◈  Filosofía    →  Código Limpio y Aprendizaje Continuo
+◈  Estado       →  Disponible para Proyectos y Colaboraciones ⚡
 </pre>
 
 </div>
@@ -53,7 +53,7 @@
 <img 
   width="380"
   src="https://github.com/user-attachments/assets/5c6ffe80-cef0-40ed-ba4c-6b2b836594ea"
-  alt="3D Wireframe Animation"
+  alt="Animación 3D Wireframe"
 />
 
 </div>
@@ -69,7 +69,7 @@
 
 ---
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="center">Conecta Conmigo</h3>
 
 <p align="center">
   <a href="https://github.com/cristiancamiloramireztorres89-sys" target="_blank">
@@ -77,7 +77,7 @@
   </a>
   &nbsp;
   <a href="mailto:cristiancamiloramirez@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Correo-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Correo"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com" target="_blank">
@@ -93,9 +93,9 @@
 
 ---
 
-<h3 align="center">Technologies & Tools</h3>
+<h3 align="center">Tecnologías y Herramientas</h3>
 
-<!-- Minimal Monochromatic Badges (Video 2) -->
+<!-- Badges Monocromáticos Minimalistas -->
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
@@ -116,36 +116,36 @@
 
 <br/>
 
-<!-- Wave Icons (Video 1) -->
+<!-- Iconos Animados en Onda -->
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=html,css,js,mysql,php,laravel,react,nodejs,git,github,kalilinux,vscode&effect=wave&columns=6" alt="Wave Tech Icons" />
+  <img src="https://stats.pphat.top/icons?name=html,css,js,mysql,php,laravel,react,nodejs,git,github,kalilinux,vscode&effect=wave&columns=6" alt="Iconos de Tecnologías en Onda" />
 </p>
 
 <br/>
 
 ---
 
-<h3 align="center">Statistics & Activity</h3>
+<h3 align="center">Estadísticas y Actividad</h3>
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img width="280" height="190" alt="Retro Cyberpunk Asset" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" style="border-radius: 10px;" />
+        <img width="280" height="190" alt="Gráfico Retro Cyberpunk" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" style="border-radius: 10px;" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com?user=cristiancamiloramireztorres89-sys&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="Dark Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=cristiancamiloramireztorres89-sys&theme=dark&locale=es&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="Racha en GitHub" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Language Cards (Video 1) -->
+  <!-- Tarjetas de Lenguajes -->
   <p align="center">
-    <img height="190" src="https://stats.pphat.top/languages?username=cristiancamiloramireztorres89-sys&type=card" alt="Languages Card" />
-    <img height="190" src="https://stats.pphat.top/languages?username=cristiancamiloramireztorres89-sys&type=pie" alt="Languages Pie" />
+    <img height="190" src="https://stats.pphat.top/languages?username=cristiancamiloramireztorres89-sys&type=card" alt="Tarjeta de Lenguajes" />
+    <img height="190" src="https://stats.pphat.top/languages?username=cristiancamiloramireztorres89-sys&type=pie" alt="Gráfico Circular de Lenguajes" />
   </p>
 
 </div>
@@ -154,7 +154,7 @@
 
 ---
 
-<h3 align="center">Contribution Activity</h3>
+<h3 align="center">Actividad de Contribuciones</h3>
 
 <div align="center">
   <picture>
@@ -167,7 +167,7 @@
       srcset="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph.svg"
     />
     <img
-      alt="github-contribution-pacman"
+      alt="Animación Pacman de Contribuciones"
       src="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph-dark.svg"
     />
   </picture>

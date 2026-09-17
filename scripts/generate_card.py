@@ -17,38 +17,38 @@ TOKEN = os.environ.get("GITHUB_TOKEN", "")
 OUT_PATH = os.environ.get("OUT_PATH", "assets/profile.svg")
 
 # ---------------------------------------------------------------------------
-# Field list shown on the right, neofetch-style.
+# Lista de campos mostrados a la derecha, estilo neofetch.
 # ---------------------------------------------------------------------------
 PROFILE_FIELDS = [
-    ("Role", "Full Stack Developer"),
-    ("Education", "Analisis y Desarrollo de Software (ADSO)"),
-    ("Focus", "Web Applications & Scalable APIs"),
+    ("Rol", "Desarrollador Full Stack"),
+    ("Educacion", "Analisis y Desarrollo de Software (ADSO - SENA)"),
+    ("Enfoque", "Aplicaciones Web y APIs Escalables"),
     ("Stack.Frontend", "html, css, javascript, react, tailwind"),
     ("Stack.Backend", "php, laravel, nodejs, express"),
     ("Stack.Database", "mysql, postgresql, mongodb"),
-    ("Environment", "linux, git, github, vscode"),
-    ("Location", "Colombia"),
-    ("Philosophy", "clean code & continuous learning"),
-    ("Contact.GitHub", f"github.com/{LOGIN}"),
-    ("Contact.Email", "cristiancamiloramirez@ejemplo.com"),
+    ("Entorno", "linux, git, github, vscode"),
+    ("Ubicacion", "Colombia"),
+    ("Filosofia", "codigo limpio y aprendizaje continuo"),
+    ("Contacto.GitHub", f"github.com/{LOGIN}"),
+    ("Contacto.Correo", "cristiancamiloramirez@ejemplo.com"),
 ]
 
-# ---- Kali color scheme -----------------------------------------------------
-BG_COLOR = "#0b1120"          # terminal window background (deep navy)
-TITLEBAR_COLOR = "#141c30"    # title bar strip
+# ---- Paleta de colores Kali -----------------------------------------------
+BG_COLOR = "#0b1120"          # Fondo de ventana de terminal (azul oscuro)
+TITLEBAR_COLOR = "#141c30"    # Barra de titulo
 TITLE_TEXT_COLOR = "#7f8aa6"
-ACCENT = "#5dc9f2"             # ASCII art color (light blue dots)
-HEADER_COLOR = "#e8384f"       # bold red "login@login" header + prompt user/path
-LABEL_COLOR = "#ffffff"        # bold field labels
-VALUE_COLOR = "#5dc9f2"        # field values (cyan/blue)
+ACCENT = "#5dc9f2"             # Color del arte ASCII
+HEADER_COLOR = "#e8384f"       # Encabezado rojo "usuario@host" + prompt
+LABEL_COLOR = "#ffffff"        # Etiquetas en negrita
+VALUE_COLOR = "#5dc9f2"        # Valores de campos (cian/azul)
 PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff",
            "#b16cff", "#39e0d0", "#e8e8e8"]
 
 PROMPT_COMMANDS = [
-    "Full Stack Developer",
-    "Laravel & React Specialist",
-    "Building Modern Web Apps",
-    "Clean Code & Architecture",
+    "Desarrollador Full Stack",
+    "Especialista en Laravel y React",
+    "Creando Aplicaciones Modernas",
+    "Codigo Limpio y Arquitectura",
 ]
 PROMPT_TYPE_SPEED = 0.08
 PROMPT_DELETE_SPEED = 0.045
@@ -428,10 +428,10 @@ def main():
 
     fields = list(PROFILE_FIELDS)
     fields.extend([
-        ("GitHub.Repos", stats["repos"]),
-        ("GitHub.Stars", stats["stars"]),
-        ("GitHub.Followers", stats["followers"]),
-        ("GitHub.Languages", stats["top_languages"]),
+        ("GitHub.Repositorios", stats["repos"]),
+        ("GitHub.Estrellas", stats["stars"]),
+        ("GitHub.Seguidores", stats["followers"]),
+        ("GitHub.Lenguajes", stats["top_languages"]),
     ])
 
     svg = build_svg(art_rows, fields)
