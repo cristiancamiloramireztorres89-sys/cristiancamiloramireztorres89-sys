@@ -2,15 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
+    # Ejecutar cada 12 horas
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
