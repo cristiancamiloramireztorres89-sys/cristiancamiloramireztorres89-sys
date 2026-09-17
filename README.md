@@ -37,10 +37,10 @@
 ◈  Rol          →  Desarrollador Full Stack / Aprendiz ADSO
 ◈  Origen       →  Colombia 🇨🇴
 ◈  Stack Princ. →  Python, Django, Laravel, React, Node.js & SQL
-◈  Enfoque      →  Aplicaciones Web Modernas y APIs Escalables
+◈  Enfoque      →  Aplicaciones Web Modernas y escalables
 ◈  Entorno      →  Windows, Git, GitHub & VS Code
 ◈  Filosofía    →  Código Limpio y Aprendizaje Continuo
-◈  Estado       →  Disponible para Proyectos y Colaboraciones ⚡
+◈  Estado       →  Disponible para Proyectos y Colaboraciones 
 </pre>
 
 </div>
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:cristiancamiloramirez@ejemplo.com" target="_blank">
+  <a href="mailto:cristiancamiloramireztorres89@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Correo-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Correo"/>
   </a>
   &nbsp;
@@ -106,10 +106,8 @@
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=FFFFFF)
 ![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
 ![Windows](https://img.shields.io/badge/Windows-111?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
@@ -122,7 +120,7 @@
 
 <!-- Iconos Animados en Onda -->
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=python,django,php,laravel,react,nodejs,html,css,js,mysql,postgres,git,github,windows,vscode&effect=wave&columns=8" alt="Iconos de Tecnologías en Onda" />
+  <img src="https://stats.pphat.top/icons?name=python,django,php,laravel,react,nodejs,html,css,js,mysql,git,github,windows,vscode&effect=wave&columns=7" alt="Iconos de Tecnologías en Onda" />
 </p>
 
 <br/>

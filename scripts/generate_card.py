@@ -24,13 +24,13 @@ PROFILE_FIELDS = [
     ("Educacion", "Analisis y Desarrollo de Software (ADSO - SENA)"),
     ("Enfoque", "Aplicaciones Web y APIs Escalables"),
     ("Stack.Frontend", "html, css, javascript, react, tailwind"),
-    ("Stack.Backend", "python, django, php, laravel, nodejs"),
-    ("Stack.Database", "sql, mysql, postgresql, mongodb"),
+    ("Stack.Backend", "python, django, php, laravel"),
+    ("Stack.Database", "sql, mysql"),
     ("Entorno", "windows, git, github, vscode"),
     ("Ubicacion", "Colombia"),
     ("Filosofia", "codigo limpio y aprendizaje continuo"),
     ("Contacto.GitHub", f"github.com/{LOGIN}"),
-    ("Contacto.Correo", "cristiancamiloramirez@ejemplo.com"),
+    ("Contacto.Correo", "cristiancamiloramireztorres89@gmail.com"),
 ]
 
 # ---- Paleta de colores Kali -----------------------------------------------
