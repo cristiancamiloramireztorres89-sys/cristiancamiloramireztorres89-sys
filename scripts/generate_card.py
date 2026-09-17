@@ -24,9 +24,9 @@ PROFILE_FIELDS = [
     ("Educacion", "Analisis y Desarrollo de Software (ADSO - SENA)"),
     ("Enfoque", "Aplicaciones Web y APIs Escalables"),
     ("Stack.Frontend", "html, css, javascript, react, tailwind"),
-    ("Stack.Backend", "php, laravel, nodejs, express"),
-    ("Stack.Database", "mysql, postgresql, mongodb"),
-    ("Entorno", "linux, git, github, vscode"),
+    ("Stack.Backend", "python, django, php, laravel, nodejs"),
+    ("Stack.Database", "sql, mysql, postgresql, mongodb"),
+    ("Entorno", "windows, git, github, vscode"),
     ("Ubicacion", "Colombia"),
     ("Filosofia", "codigo limpio y aprendizaje continuo"),
     ("Contacto.GitHub", f"github.com/{LOGIN}"),
@@ -46,8 +46,9 @@ PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff",
 
 PROMPT_COMMANDS = [
     "Desarrollador Full Stack",
-    "Especialista en Laravel y React",
-    "Creando Aplicaciones Modernas",
+    "Python & Django Developer",
+    "Laravel & React Specialist",
+    "Construyendo Sistemas Web",
     "Codigo Limpio y Arquitectura",
 ]
 PROMPT_TYPE_SPEED = 0.08

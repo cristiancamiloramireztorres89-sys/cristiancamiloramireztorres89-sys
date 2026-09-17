@@ -2,7 +2,7 @@
 
 <!-- Subtítulo Animado con Fuente Clásica en Español -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=+Desarrollador+Full+Stack;+Construyendo+Sistemas+Web+Modernos;+C%C3%B3digo+Limpio+%E2%80%A2+El+mundo+es+tuyo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&lines=+Desarrollador+Full+Stack;+Python+%7C+Django+%7C+Laravel+%7C+React;+C%C3%B3digo+Limpio+%E2%80%A2+El+mundo+es+tuyo." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,8 +36,9 @@
 <pre>
 ◈  Rol          →  Desarrollador Full Stack / Aprendiz ADSO
 ◈  Origen       →  Colombia 🇨🇴
-◈  Stack Princ. →  Laravel, React, Node.js & MySQL
+◈  Stack Princ. →  Python, Django, Laravel, React, Node.js & SQL
 ◈  Enfoque      →  Aplicaciones Web Modernas y APIs Escalables
+◈  Entorno      →  Windows, Git, GitHub & VS Code
 ◈  Filosofía    →  Código Limpio y Aprendizaje Continuo
 ◈  Estado       →  Disponible para Proyectos y Colaboraciones ⚡
 </pre>
@@ -98,18 +99,21 @@
 <!-- Badges Monocromáticos Minimalistas -->
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=FFFFFF)
 ![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/Windows-111?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
@@ -118,7 +122,7 @@
 
 <!-- Iconos Animados en Onda -->
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=html,css,js,mysql,php,laravel,react,nodejs,git,github,kalilinux,vscode&effect=wave&columns=6" alt="Iconos de Tecnologías en Onda" />
+  <img src="https://stats.pphat.top/icons?name=python,django,php,laravel,react,nodejs,html,css,js,mysql,postgres,git,github,windows,vscode&effect=wave&columns=8" alt="Iconos de Tecnologías en Onda" />
 </p>
 
 <br/>
