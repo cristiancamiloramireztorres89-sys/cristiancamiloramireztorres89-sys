@@ -159,9 +159,45 @@
 <h3 align="center">Reproduciendo en Spotify 🎧</h3>
 
 <div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="left" width="52%" valign="middle">
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31l53pmcodxpo2iiyxyrr5nxjzxy" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31l53pmcodxpo2iiyxyrr5nxjzxy" alt="Spotify Recently Played" width="100%" />
   </a>
+</td>
+
+<td align="center" width="48%" valign="middle">
+
+<div style="background-color:#111; padding:20px 25px; border-radius:12px; border:1px solid #232b36; text-align:left;">
+
+<pre>
+◈  Playlist     →  Modo Focus & Desarrollo ⚡
+◈  Estado       →  Escuchando en Vivo 🎧
+◈  Ritmo        →  Reggaeton, Trap & Chill
+◈  Efecto       →  +100% Concentración en Código
+</pre>
+
+</div>
+
+<br/>
+
+<div style="border-radius:14px; overflow:hidden;">
+  <img 
+    width="380" 
+    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" 
+    alt="Retro Pixel Cassette" 
+    style="border-radius:14px;"
+  />
+</div>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 <br/>
