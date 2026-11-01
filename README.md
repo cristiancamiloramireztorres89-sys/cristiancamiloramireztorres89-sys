@@ -171,19 +171,6 @@
 
 <td align="center" width="48%" valign="middle">
 
-<div style="background-color:#111; padding:20px 25px; border-radius:12px; border:1px solid #232b36; text-align:left;">
-
-<pre>
-◈  Playlist     →  Modo Focus & Desarrollo ⚡
-◈  Estado       →  Escuchando en Vivo 🎧
-◈  Ritmo        →  Reggaeton, Trap & Chill
-◈  Efecto       →  +100% Concentración en Código
-</pre>
-
-</div>
-
-<br/>
-
 <div style="border-radius:14px; overflow:hidden;">
   <img 
     width="380" 
