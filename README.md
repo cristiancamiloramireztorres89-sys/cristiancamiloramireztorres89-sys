@@ -94,18 +94,6 @@
 
 ---
 
-<h3 align="center">Reproduciendo en Spotify 🎧</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31l53pmcodxpo2iiyxyrr5nxjzxy" alt="Spotify Recently Played" />
-  </a>
-</div>
-
-<br/>
-
----
-
 <h3 align="center">Tecnologías y Herramientas</h3>
 
 <!-- Badges Monocromáticos Minimalistas -->
@@ -162,6 +150,18 @@
     <img height="190" src="https://stats.pphat.top/languages?username=cristiancamiloramireztorres89-sys&type=pie" alt="Gráfico Circular de Lenguajes" />
   </p>
 
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">Reproduciendo en Spotify 🎧</h3>
+
+<div align="center">
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31l53pmcodxpo2iiyxyrr5nxjzxy" alt="Spotify Recently Played" />
+  </a>
 </div>
 
 <br/>
