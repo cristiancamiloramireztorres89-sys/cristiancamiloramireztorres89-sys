@@ -156,6 +156,29 @@
 
 ---
 
+<h3 align="center">Actividad de Contribuciones</h3>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Animación Pacman de Contribuciones"
+      src="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph-dark.svg"
+    />
+  </picture>
+</div>
+
+<br/>
+
+---
+
 <h3 align="center">Reproduciendo en Spotify 🎧</h3>
 
 <div align="center">
@@ -174,8 +197,8 @@
 <div style="border-radius:14px; overflow:hidden;">
   <img 
     width="380" 
-    src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" 
-    alt="Retro Pixel Cassette" 
+    src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" 
+    alt="Cat Typing GIF" 
     style="border-radius:14px;"
   />
 </div>
@@ -185,27 +208,4 @@
 </tr>
 </table>
 
-</div>
-
-<br/>
-
----
-
-<h3 align="center">Actividad de Contribuciones</h3>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="Animación Pacman de Contribuciones"
-      src="https://raw.githubusercontent.com/cristiancamiloramireztorres89-sys/cristiancamiloramireztorres89-sys/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-  </picture>
 </div>
