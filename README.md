@@ -94,6 +94,18 @@
 
 ---
 
+<h3 align="center">Reproduciendo en Spotify 🎧</h3>
+
+<div align="center">
+  <a href="https://spotify-recently-played.jeffreyca.workers.dev/login" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cristiancamiloramireztorres89-sys" alt="Spotify Recently Played" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 <h3 align="center">Tecnologías y Herramientas</h3>
 
 <!-- Badges Monocromáticos Minimalistas -->
