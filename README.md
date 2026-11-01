@@ -70,7 +70,9 @@
 
 ---
 
-<h3 align="center">Conecta Conmigo</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&height=40&lines=Conecta+Conmigo" alt="Conecta Conmigo" />
+</p>
 
 <p align="center">
   <a href="https://github.com/cristiancamiloramireztorres89-sys" target="_blank">
@@ -94,7 +96,9 @@
 
 ---
 
-<h3 align="center">Tecnologías y Herramientas</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Tecnolog%C3%ADas+y+Herramientas" alt="Tecnologías y Herramientas" />
+</p>
 
 <!-- Badges Monocromáticos Minimalistas -->
 <div align="center">
@@ -127,7 +131,9 @@
 
 ---
 
-<h3 align="center">Estadísticas y Actividad</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&height=40&lines=Estad%C3%ADsticas+y+Actividad" alt="Estadísticas y Actividad" />
+</p>
 
 <div align="center">
 
@@ -156,7 +162,9 @@
 
 ---
 
-<h3 align="center">Actividad de Contribuciones</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&height=40&lines=Actividad+de+Contribuciones" alt="Actividad de Contribuciones" />
+</p>
 
 <div align="center">
   <picture>
@@ -179,7 +187,9 @@
 
 ---
 
-<h3 align="center">Reproduciendo en Spotify 🎧</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&height=40&lines=Reproduciendo+en+Spotify" alt="Reproduciendo en Spotify" />
+</p>
 
 <div align="center">
 
